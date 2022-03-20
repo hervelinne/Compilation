@@ -1,0 +1,20 @@
+a=2
+ari a
+b=4
+ari b
+ari a==b
+ari b!=a
+ari compilation
+toul(compilation)
+ari a>b
+ari a>=b
+ari a<b
+ari a<=b
+ari a+b
+ari (a*2)-b
+ari b/a
+ikm (a==2){ ari test }
+ikm (b==2) {ari test } ighmla { ari elseboucle }
+var =  test 
+ari var
+ari b==1
